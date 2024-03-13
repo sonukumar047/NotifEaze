@@ -10,8 +10,8 @@ The project is structured as follows:
 
 - `src/main/java/com/NotifEaze/NotifEaze/service`: Contains interface definitions for SMS, email, and notification services.
 - `src/main/java/com/NotifEaze/NotifEaze/service/impl`: Contains sample implementations for SMS, email, and push notifications. (To be created)
-- `src/main/java/com/NotifEaze/NotifEaze/controller`: Contains a sample controller for testing the services. (To be created)
-- `src/test`: Contains unit tests for the services (not provided in this example). (Optional)
+- `src/main/java/com/NotifEaze/NotifEaze/controller`: Contains a sample controller for testing the services.
+- `src/test`: Contains unit tests for the services (not provided in this example).
 - `src/main/java/com/NotifEaze/NotifEaze/mock`: Contains mock classes providing mocked responses for SMS, email, and push notifications.
 
 ## How to Use
